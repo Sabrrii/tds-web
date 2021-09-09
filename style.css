@@ -9,7 +9,27 @@ p span{
     color: red;
 }
 .blue{
+    color:royalblue;body{
+
+}
+
+p span{
+    font-weight: bold;
+}
+.rouge{
+    color: red;
+}
+.blue{
     color:royalblue;
+    text-decoration: underline;
+}
+#A{
+    margin-right: 200px;
+    margin-left: 150px;
+    background-color: black;
+    color: white;
+    
+}
     text-decoration: underline;
 }
 #A{
