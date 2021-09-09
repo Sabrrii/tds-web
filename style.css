@@ -1,0 +1,14 @@
+body{
+
+}
+
+p span{
+    font-weight: bold;
+}
+.rouge{
+    color: red;
+}
+.blue{
+    color:royalblue;
+    text-decoration: underline;
+}
